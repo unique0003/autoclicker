@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Clicker</string>
+    <string name="service_desc">ใช้สั่งแตะและปัดหน้าจอตามจุดที่คุณวางไว้เท่านั้น ไม่อ่านเนื้อหา ไม่เก็บข้อมูล ไม่เชื่อมต่ออินเทอร์เน็ต</string>
+</resources>
